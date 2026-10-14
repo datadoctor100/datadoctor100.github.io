@@ -28,7 +28,7 @@ Here we assess a combined ensemble strategy — S6 — that draws on all five pr
 
 <a class="anchor" id="top"></a>
 
-<center><img src = "/images/movielensbanner.png"></center>
+<center><img src = "https://datadoctor100.github.io/images/movielensbanner.png"></center>
 
 ---
 

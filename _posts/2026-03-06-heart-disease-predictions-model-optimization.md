@@ -22,7 +22,7 @@ In this experiment, we use a python library for optimizing model parameters empl
 
 <!--more-->
 
-<p align = "center"><img src = "/images/heart-disease-infographic.png" style = "width: 300px; height: auto;"/></p>
+<p align = "center"><img src = "https://datadoctor100.github.io/images/heart-disease-infographic.png" style = "width: 300px; height: auto;"/></p>
 
 # Machine Learning- An Approach to Choosing Model Parameters <a class = "anchor" id = "top"></a>
 

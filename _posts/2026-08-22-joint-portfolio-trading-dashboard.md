@@ -30,7 +30,7 @@ A new "Trading" section just went live on the site: a self-refreshing dashboard 
 I've been running several separate algorithmic trading strategies against Alpaca's paper-trading API for a while now, each in its own account, each with its own logic. Up to this point, checking on them meant opening three different places and doing the math myself. That's no longer true.
 
 <p align = "center">
-  <img src = "https://doctorofdata.github.io/images/joint-portfolio-dashboard-banner.png" alt = "Joint Portfolio Platform Banner" width = "90%">
+  <img src = "https://datadoctor100.github.io/images/joint-portfolio-dashboard-banner.png" alt = "Joint Portfolio Platform Banner" width = "90%">
 </p>
 
 ---
@@ -77,6 +77,6 @@ This is paper money — no real capital is at risk in any of the three books. Bu
 
 The dashboard lives in the new **Trading** section in the header, or directly here:
 
-**[Joint Portfolio Platform](https://doctorofdata.github.io/trading/)**
+**[Joint Portfolio Platform](https://datadoctor100.github.io/trading/)**
 
 It'll keep updating on its own from here — no further action required to see fresh numbers next time you visit.

@@ -15,7 +15,7 @@ This post briefly discusses the newest feature introduction to this site: a comp
 ### Interactive · Browser-Based · Zero Install
 
 <p align="center">
-  <img src="/images/mlsketch1.png" alt="ML Pipeline Banner" width="100%">
+  <img src="https://datadoctor100.github.io/images/mlsketch1.png" alt="ML Pipeline Banner" width="100%">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ This post briefly discusses the newest feature introduction to this site: a comp
 ---
 
 ## 🌐 Live Demo  
-🔗 **Try it here:** [Click Me!](https://doctorofdata.github.io/projects/machine-learning-model-explorer/)
+🔗 **Try it here:** [Click Me!](https://datadoctor100.github.io/projects/machine-learning-model-explorer/)
 
 ---
 

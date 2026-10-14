@@ -22,7 +22,7 @@ In this post, we use a generalized additive model to forecast store sales using 
 
 <!--more-->
 
-<p align = "center"><img src = "/images/prophet-products-forecasting.png" style = "width: 300px; height: auto;"/></p>
+<p align = "center"><img src = "https://datadoctor100.github.io/images/prophet-products-forecasting.png" style = "width: 300px; height: auto;"/></p>
 
 # Forecasting at Scale: Time-Series with Prophet
 

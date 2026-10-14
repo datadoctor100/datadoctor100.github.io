@@ -18,7 +18,7 @@ In this post, we use a dataset posted on Kaggle as fodder for creating a vast ne
 
 <!--more-->
 
-<p align = "center"><img src = "/images/networking-mind-journey.png" style = "width: 300px; height: auto;"/></p>
+<p align = "center"><img src = "https://datadoctor100.github.io/images/networking-mind-journey.png" style = "width: 300px; height: auto;"/></p>
 
 # 🎬 Mapping the Netflix Cinematic Graph <a class="anchor" id="top"></a>
 

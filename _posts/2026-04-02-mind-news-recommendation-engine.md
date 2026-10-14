@@ -25,7 +25,7 @@ In this post, we build a series of recommendation engines for the Microsoft MIND
 
 <a class = "anchor" id = "top"></a>
 
-<center><img src = "/images/recommendations-generator.png"></center>
+<center><img src = "https://datadoctor100.github.io/images/recommendations-generator.png"></center>
 
 # 📰 News Data: Microsoft MIND — Two-Stage Generate-&-Rerank News Recommendation Engine
 

@@ -25,7 +25,7 @@ This post briefly discusses yet another feature introduction to this site: a com
 > *Because every “genius” trading idea deserves a trial by fire.*
 
 <p align = "center">
-  <img src = "/images/regressionpipe.png" alt = "Regression Pipeline Banner" width = "98%">
+  <img src = "https://datadoctor100.github.io/images/regressionpipe.png" alt = "Regression Pipeline Banner" width = "98%">
 </p>
 
 ---
@@ -173,4 +173,4 @@ is a **tested one**.
 *Welcome to QuantBT.*  
 *Where hypotheses go to either die… or evolve.*
 
-**Explore the tool here:** [Forecasting Backtester](https://doctorofdata.github.io/projects/financial-backtester/)
+**Explore the tool here:** [Forecasting Backtester](https://datadoctor100.github.io/projects/financial-backtester/)

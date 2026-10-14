@@ -1,4 +1,4 @@
-# Publishing the joint portfolio dashboard on doctorofdata.github.io
+# Publishing the joint portfolio dashboard on datadoctor100.github.io
 
 Files are already committed to this repo (from the earlier `traders-folder` session's kit):
 
@@ -23,7 +23,7 @@ through to `_site` untouched, so the URL comes out exactly the same and
 **no Pages setting needs to change**:
 
 ```
-https://doctorofdata.github.io/trading/joint_portfolio_platform.html
+https://datadoctor100.github.io/trading/joint_portfolio_platform.html
 ```
 
 ## 1. Add 6 repository secrets

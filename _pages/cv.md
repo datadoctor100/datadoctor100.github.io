@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<p align="center"><img src = "/images/cv.png" /></p>
+<p align="center"><img src = "https://datadoctor100.github.io/images/cv.png" /></p>
 
 ## <center style = "color: dodgerblue;">The Data Guy</center>
 

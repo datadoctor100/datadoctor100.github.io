@@ -27,7 +27,7 @@ This demonstration involves using a technique called semantic re-ranking as a me
 
 <a class = "anchor" id = "top"></a>
 
-<p align = "center"><img src = "/images/semantic-similarity-testing.png" style = "width: 300px; height: auto;"/></p>
+<p align = "center"><img src = "https://datadoctor100.github.io/images/semantic-similarity-testing.png" style = "width: 300px; height: auto;"/></p>
 
 # Semantic Search
 

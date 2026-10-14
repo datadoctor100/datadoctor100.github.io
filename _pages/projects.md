@@ -83,7 +83,7 @@ classes: wide
 
   <div class="project-card">
     <a href="/projects/network-graphing-explorer/">
-      <img src="/images/network-graph-explorer-preview.png" alt="Preview of the Network Graph Explorer">
+      <img src="https://datadoctor100.github.io/images/network-graph-explorer-preview.png" alt="Preview of the Network Graph Explorer">
     </a>
     <div class="project-card-body">
       <h2>
@@ -102,7 +102,7 @@ classes: wide
 
   <div class="project-card">
     <a href="/projects/machine-learning-model-explorer/">
-      <img src="/images/machine-learning-model-explorer-preview.png" alt="Preview of the Machine Learning Model Explorer">
+      <img src="https://datadoctor100.github.io/images/machine-learning-model-explorer-preview.png" alt="Preview of the Machine Learning Model Explorer">
     </a>
     <div class="project-card-body">
       <h2>
@@ -121,7 +121,7 @@ classes: wide
 
   <div class = "project-card">
     <a href = "/projects/financial-backtester/">
-      <img src = "/images/regressionpipe.png" alt = "Preview of the Forecasting Explorer">
+      <img src = "https://datadoctor100.github.io/images/regressionpipe.png" alt = "Preview of the Forecasting Explorer">
     </a>
     <div class = "project-card-body">
       <h2>

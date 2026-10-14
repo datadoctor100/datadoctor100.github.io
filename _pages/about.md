@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src = "/images/data-science-galaxy.png" />
+  <img src = "https://datadoctor100.github.io/images/data-science-galaxy.png" />
 </p>
 
 > A showcase of data science experiments and notebooks to highlight important concepts and methodology
@@ -47,7 +47,7 @@ knowledge.
 ------------------------------------------------------------------------
 
 <p align="center">
-  <img src = "/images/mldslifecycle.png" />
+  <img src = "https://datadoctor100.github.io/images/mldslifecycle.png" />
 </p>
 
 ### 🌍 The Data Science Pipeline

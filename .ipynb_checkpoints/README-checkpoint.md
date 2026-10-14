@@ -1,10 +1,10 @@
-# doctorofdata.github.io — Data Science Portfolio (with receipts)
+# datadoctor100.github.io — Data Science Portfolio (with receipts)
 
-Welcome to the repository behind my personal site: **`doctorofdata.github.io`**  
+Welcome to the repository behind my personal site: **`datadoctor100.github.io`**  
 Think: *data science + storytelling + shipping things that work.*
 
 ## TL;DR
-- **Live site:** `https://doctorofdata.github.io`
+- **Live site:** `https://datadoctor100.github.io`
 - **What’s here:** the code + content that powers the portfolio
 - **What it’s not:** a museum exhibit of the original Academic Pages README
 
